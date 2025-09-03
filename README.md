@@ -5,7 +5,7 @@ Snippets of things I may want to reuse on future AI coding-related projects.
 ## Basic 'git' commands
 - create new repo
 ```bash
-echo "# choco-instructions-sept3" >> README.md
+echo "# README.md file created" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
